@@ -164,4 +164,5 @@ cython_debug/
 palette_gan.h5
 palette_gan.keras
 data_new.csv
+data_new_better.csv
 dataset/
